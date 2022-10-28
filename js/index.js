@@ -11,7 +11,7 @@ close.addEventListener('click', () => {
     header.classList.remove('show')
 })
 
-fetch('../faq.json')
+fetch('../fetch-project/faq.json')
 .then(response => response.json())
 .then((data) => {
     let output = ``
