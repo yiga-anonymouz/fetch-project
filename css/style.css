@@ -519,6 +519,7 @@ color: #FFFFFF;
     .container-1-item{
         width: 100%;
         height: 274px;
+        padding:20px;
     }
     
     .c1-heading{
@@ -627,7 +628,7 @@ color: #FFFFFF;
 
     .l-image{
         position: absolute;
-        transform: translateX(-30%);
+        transform: translateX(-50%);
     }
     
     footer {
