@@ -11,7 +11,7 @@ close.addEventListener('click', () => {
     header.classList.remove('show')
 })
 
-fetch('https://yiga-anonymouz.github.io/fetch-project/faq.json')
+fetch('../faq.json')
 .then(response => response.json())
 .then((data) => {
     let output = ``
