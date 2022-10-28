@@ -628,7 +628,7 @@ color: #FFFFFF;
 
     .l-image{
         position: absolute;
-        transform: translateX(-50%);
+        transform: translateX(-20%);
     }
     
     footer {
